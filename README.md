@@ -27,17 +27,19 @@
 
 ### My Portfolio & Beats
 
-ช่องทางรับฟังผลงานเพลงและบีทของผม:
+ช่องทางรับฟังผลงานMIX&MASTER:
 
 <p align="left">
   <a href="http://www.youtube.com/@14thuggish" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Portfolio" />
+    <img src="https://img.shields.io/badge/YouTube_@14thuggish-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube 14thuggish" />
+  </a>
+  <a href="https://www.youtube.com/@golly8423" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube_@golly8423-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube golly8423" />
   </a>
   <a href="mailto:thanaphon.tee@ku.th">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
 ---
 
 ### Producer & Tech Stack
