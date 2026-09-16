@@ -13,7 +13,7 @@
 
 ---
 
-### 🎧 About Me (เกี่ยวกับฉัน)
+### About Me (เกี่ยวกับฉัน)
 
 <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Y0ZHNvdzY0bzA1OHBvejZhd2hlbzZmMDljcjFzMnJjMWplMXNydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fpF7iUhdty2iY/giphy.gif" width="220" />
 
@@ -25,7 +25,7 @@
 
 ---
 
-### 🎛️ My Portfolio & Beats
+### My Portfolio & Beats
 
 ช่องทางรับฟังผลงานเพลงและบีทของผม:
 
@@ -40,12 +40,12 @@
 
 ---
 
-### 🎹 Producer & Tech Stack
+### Producer & Tech Stack
 
 #### 🎵 Music Production & Audio Tools
 ![FL Studio](https://img.shields.io/badge/FL_Studio-363636?style=for-the-badge&logo=fl-studio&logoColor=orange)
 ![YouTube](https://img.shields.io/badge/YouTube_Audio-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-![Logic Pro](https://img.shields.io/badge/Logic_Pro-000000?style=for-the-badge&logo=apple&logoColor=white)
+
 
 <br/>
 
